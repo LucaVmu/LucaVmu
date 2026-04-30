@@ -7,8 +7,8 @@ I like to break iOS's limits <sub>(for fun)</sub>
 Stuff I know:
 - Bash and SH
 - C
-- Webstack
+- the Webstack
 
-and learing Objective-C and Swift.
+and I'm learing Objective-C and Swift.
 
-<!-- Why are you looking here? 👁️👁️ -->
+<!-- Why are you looking here? 👁️ 👁️ -->
