@@ -13,9 +13,9 @@ and I'm learing Objective-C and Swift.
 
 <!-- Why are you looking here? 👁️ 👁️ -->
 
-<div><kbd><code>
+<div><kbd>
 
-![tree.mermaid                                                  _ □ ×](./assets/window_bar.svg)
+![tree.mermaid                                                  _ □ ×](./assets/window_bagr.svg)
 ```mermaid
 flowchart BT
     G1["Grass"]:::grass
@@ -85,4 +85,4 @@ flowchart BT
 
     linkStyle default stroke:#6b4423,stroke-width:2px;
 ```
-</code></kbd></div>
+</kbd></div>
