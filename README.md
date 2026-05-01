@@ -13,8 +13,9 @@ and I'm learing Objective-C and Swift.
 
 <!-- Why are you looking here? 👁️ 👁️ -->
 
-<div><kbd><code>tree.mermaid                                                     _ □ ×</code>
+<div><kbd>
 
+![tree.mermaid                                                     _ □ ×](./assets/window_bar.svg)
 ```mermaid
 flowchart BT
     G1["Grass"]:::grass
