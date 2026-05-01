@@ -9,7 +9,7 @@ Stuff I know:
 - C
 - The Webstack
 
-and I'm learing Objective-C and Swift.
+and learing Objective-C and Swift.
 
 <!-- Why are you looking here? 👁️ 👁️ -->
 
