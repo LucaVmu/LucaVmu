@@ -1,0 +1,58 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="36" viewBox="0 0 900 36">
+
+  <defs>
+    <style>
+      .bar {
+        width: 900px;
+        height: 36px;
+        font-family: 'JetBrains Mono', monospace;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        position: relative;
+        color: #000;
+        border-bottom: 1px solid #000;
+        filter: drop-shadow(0 1px 1.5px rgba(0,0,0,0.55));
+      }
+
+      .buttons {
+        position: absolute;
+        left: 12px;
+        display: flex;
+        gap: 8px;
+      }
+
+      .dot {
+        width: 11px;
+        height: 11px;
+        border-radius: 50%;
+      }
+
+      .red { background: #e05c5c; }
+      .yellow { background: #e8c547; }
+      .green { background: #39d353; }
+
+      @media (prefers-color-scheme: dark) {
+        .bar {
+          color: #fff;
+          border-bottom: 1px solid #fff;
+        }
+      }
+    </style>
+  </defs>
+
+  <foreignObject width="900" height="36">
+    <div xmlns="http://www.w3.org/1999/xhtml" class="bar">
+      
+      <div class="buttons">
+        <div class="dot red"></div>
+        <div class="dot yellow"></div>
+        <div class="dot green"></div>
+      </div>
+
+      tree.mermaid
+
+    </div>
+  </foreignObject>
+
+</svg>
