@@ -36,7 +36,7 @@
       @media (prefers-color-scheme: dark) {
         .bar {
           color: #fff;
-          border-bottom: 1.5px solid #fff;
+          border-bottom: 2px solid #fff;
         }
       }
     </style>
