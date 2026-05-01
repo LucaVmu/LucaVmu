@@ -12,7 +12,6 @@
         position: relative;
         color: #000;
         border-bottom: 2px solid #000;
-        filter: drop-shadow(0 1px 1.5px rgba(0,0,0,0.55));
       }
 
       .buttons {
@@ -31,7 +30,7 @@
 
       .red { background: red; }
       .yellow { background: yellow; }
-      .green { background: green; }
+      .green { background: lime; }
 
       @media (prefers-color-scheme: dark) {
         .bar {
