@@ -16,7 +16,7 @@ and I'm learing Objective-C and Swift.
 <div><kbd><details>
     <summary>
         <picture>
-            <img alt="tree.mermaid⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀_ □ ×" src="./assets/tree_window_bar.svg">
+            <img alt="tree.mermaid⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀_ □ ×" src="./assets/window_bar.svg">
         </picture>
     </summary>
 
