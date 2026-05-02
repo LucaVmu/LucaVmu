@@ -13,9 +13,13 @@ and I'm learing Objective-C and Swift.
 
 <!-- Why are you looking here? 👁️ 👁️ -->
 
-<div><kbd>
+<div><kbd><details>
+    <summary>
+        <a href="#">
+            <img alt="tree.mermaid⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀_ □ ×" src="./assets/window_bar.svg">
+        </a>
+    </summary>
 
-![tree.mermaid⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀_ □ ×](./assets/window_bar.svg)
 ```mermaid
 flowchart BT
     G1["Grass"]:::grass
@@ -85,4 +89,4 @@ flowchart BT
 
     linkStyle default stroke:#6b4423,stroke-width:2px;
 ```
-</kbd></div>
+</details></kbd></div>
