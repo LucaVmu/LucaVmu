@@ -15,7 +15,7 @@ and I'm learing Objective-C and Swift.
 
 <div><kbd>
 
-![tree.mermaid⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀_ □ ×](./assets/window_bar.svg)
+![tree.mermaid⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀_ □ ×](./assets/window_bar.svg)
 ```mermaid
 flowchart BT
     G1["Grass"]:::grass
