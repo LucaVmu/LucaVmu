@@ -46,7 +46,7 @@
         <div class="dot yellow"></div>
         <div class="dot green"></div>
       </div>
-      tree.mermaid
+      <span>tree.mermaid</span>
     </div>
   </foreignObject>
 </svg>
