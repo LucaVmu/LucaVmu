@@ -15,9 +15,9 @@ and I'm learing Objective-C and Swift.
 
 <div><kbd><details>
     <summary>
-        <a href="#">
+        <picture>
             <img alt="tree.mermaid⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀_ □ ×" src="./assets/window_bar.svg">
-        </a>
+        </picture>
     </summary>
 
 ```mermaid
