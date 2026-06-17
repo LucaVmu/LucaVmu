@@ -1,13 +1,16 @@
 ![Imagine an Animated Wave](https://readme-svg-wave-divider-generator.vercel.app/wave?type=sine&amplitude=40&layers=3&color_top=0088ff&color_bottom=88ccff&flip=true&gradient=true&animate=true&speed=15)
 
-Morning, I'm `LucaVmu`and you can find me under that name everywhere.
+# About me
 
-I like to break iOS's limits <sub>(for fun)</sub>
+I'm `LucaVmu`and like to break iOS's limits. <sub>(for fun)</sub>  
+You can find me under that name everywhere.
 
-Stuff I know:
-- Bash and SH
-- C
-- React and the Webstack
+# Languages
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=fff)
+![SH](https://img.shields.io/badge/Shell-241F31?style=for-the-badge&logo=gnometerminal&logoColor=fff)
+![C](https://img.shields.io/badge/-%23A8B9CC?style=for-the-badge&logo=c&logoColor=fff)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=fff)
+![HTML, CSS, JS](https://img.shields.io/badge/HTML%2C%20CSS%2C%20JS-3366CC?style=for-the-badge&logo=htmx&logoColor=fff)
 
 and I'm learing Objective-C and Swift.
 
@@ -36,27 +39,27 @@ flowchart BT
     T2["Trunk"]:::trunk
     T3["Trunk"]:::trunk
 
-    L01["Leaf"]:::leaf
-    L02["Leaf"]:::leaf
-    L03["Leaf"]:::leaf
-    L11["Leaf"]:::leaf
-    L12["Leaf"]:::leaf
-    L13["Leaf"]:::leaf
-    L14["Leaf"]:::leaf
-    L15["Leaf"]:::leaf
-    L21["Leaf"]:::leaf
-    L22["Leaf"]:::leaf
-    L23["Leaf"]:::leaf
-    L24["Leaf"]:::leaf
-    L25["Leaf"]:::leaf
-    L31["Leaf"]:::leaf
-    L32["Leaf"]:::leaf
-    L33["Leaf"]:::leaf
-    L34["Leaf"]:::leaf
-    L35["Leaf"]:::leaf
-    L41["Leaf"]:::leaf
-    L42["Leaf"]:::leaf
-    L43["Leaf"]:::leaf
+    L01["Leafs"]:::leafs
+    L02["Leafs"]:::leafs
+    L03["Leafs"]:::leafs
+    L11["Leafs"]:::leafs
+    L12["Leafs"]:::leafs
+    L13["Leafs"]:::leafs
+    L14["Leafs"]:::leafs
+    L15["Leafs"]:::leafs
+    L21["Leafs"]:::leafs
+    L22["Leafs"]:::leafs
+    L23["Leafs"]:::leafs
+    L24["Leafs"]:::leafs
+    L25["Leafs"]:::leafs
+    L31["Leafs"]:::leafs
+    L32["Leafs"]:::leafs
+    L33["Leafs"]:::leafs
+    L34["Leafs"]:::leafs
+    L35["Leafs"]:::leafs
+    L41["Leafs"]:::leafs
+    L42["Leafs"]:::leafs
+    L43["Leafs"]:::leafs
 
     R1 --> T1
     R2 --> T1
@@ -85,7 +88,7 @@ flowchart BT
     classDef grass fill:#3f9b0b,color:#fff;
     classDef root fill:#6e4b3a,color:#fff;
     classDef trunk fill:#8b5a2b,color:#fff;
-    classDef leaf fill:#27ae60,color:#fff;
+    classDef leafs fill:#27ae60,color:#fff;
 
     linkStyle default stroke:#6b4423,stroke-width:2px;
 ```
