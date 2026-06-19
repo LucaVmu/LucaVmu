@@ -1,7 +1,6 @@
 ![Imagine an Animated Wave](https://readme-svg-wave-divider-generator.vercel.app/wave?type=sine&amplitude=40&layers=3&color_top=0088ff&color_bottom=88ccff&flip=true&gradient=true&animate=true&speed=15)
 
 # About me
-
 Hello, I'm `LucaVmu` and have been fascinate in programming since I was 12. Since then I learned various programming [languages](#languages) and skills.
 
 Here are the kind of things I programm:
@@ -20,6 +19,10 @@ Currently I'm learing Objective-C and Swift.
 # Contact
 You will find my under LucaVmu in most well known plattforms.  
 Here is my business Email: `lucavmu@emexlab.org`
+
+# Projects
+- [ ] [emexlabs website](https://github.com/emexlab/emexlab.github.io)
+- [ ] [emexDE (contributor)](https://github.com/emexlab/emexDE)
 
 <!-- Feel free to copy my README ;) -->
 
