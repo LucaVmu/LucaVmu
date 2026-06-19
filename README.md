@@ -2,20 +2,28 @@
 
 # About me
 
-I'm `LucaVmu`and like to break iOS's limits. <sub>(for fun)</sub>  
-You can find me under that name everywhere.
+Hello, I'm `LucaVmu` and have been fascinate in programming since I was 12. Since then I learned various programming [languages](#languages) and skills.
+
+Here are the kind of things I programm:
+- Coding IDE's
+- System modifications
+- DIY projects
 
 # Languages
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=fff)
 ![SH](https://img.shields.io/badge/Shell-241F31?style=for-the-badge&logo=gnometerminal&logoColor=fff)
 ![C](https://img.shields.io/badge/-%23A8B9CC?style=for-the-badge&logo=c&logoColor=fff)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=fff)
-![HTML, CSS, JS](https://img.shields.io/badge/HTML%2C%20CSS%2C%20JS-3366CC?style=for-the-badge&logo=htmx&logoColor=fff)
+![HTML, CSS, JS](https://img.shields.io/badge/HTML%2C%20CSS%2C%20JS-3366CC?style=for-the-badge&logo=htmx&logoColor=fff)  
+Currently I'm learing Objective-C and Swift.
 
-and I'm learing Objective-C and Swift.
+# Contact
+You will find my under LucaVmu in most well known plattforms.  
+Here is my business Email: `lucavmu@emexlab.org`
 
-<!-- Why are you looking here? 👁️ 👁️ -->
+<!-- Feel free to copy my README ;) -->
 
+#
 <div><kbd><details>
     <summary>
         <picture>
