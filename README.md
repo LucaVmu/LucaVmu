@@ -3,10 +3,10 @@
 # About me
 Hello, I'm `LucaVmu` and have been fascinate in programming since I was 12. Since then I learned various programming [languages](#languages) and skills.
 
-Here are the kind of things I programm:
+Here are the some things I like to programm:
 - Coding IDE's
 - System modifications
-- DIY projects
+- Random overengineered tools <sub>$\color{grey}{\text{(No idea why)}}$</sub>
 
 # Languages
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=fff)
