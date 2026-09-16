@@ -17,8 +17,8 @@ Here are the some things I like to programm:
 Currently I'm learing Objective-C and Swift.
 
 # Contact
-You will find my under LucaVmu in most well known plattforms.  
-Here is my business Email: `lucavmu@emexlab.org`
+You will find me under LucaVmu in most well known plattforms.  
+Here is my business Email: `lucavmu@emexlab.de`
 
 # Projects
 - [ ] [emexlabs website](https://github.com/emexlab/emexlab.github.io)
